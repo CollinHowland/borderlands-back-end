@@ -2,3 +2,5 @@
 node_modules/
 build/
 .env
+neo4j.config
+neo4j.config.js
